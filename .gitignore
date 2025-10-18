@@ -1,0 +1,43 @@
+﻿# --- Unity ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+# アセットバンドル等
+Assets/StreamingAssets/aa/
+
+# --- IDE / Editor ---
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.pdb
+
+# --- OS / 一時 ---
+.DS_Store
+Thumbs.db
+
+# --- Plastic SCM ---
+.plastic/
+ignore.conf
+
+# --- Android / iOS 出力物 ---
+*.apk
+*.aab
+*.ipa
+
+# --- Unity パッケージ / クラッシュ ---
+*.unitypackage
+*.stacktrace
+
+# --- Androidライブラリ一時 ---
+Assets/Plugins/Android/libs/
